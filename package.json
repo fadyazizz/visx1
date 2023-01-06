@@ -1,0 +1,19 @@
+{
+  "name": "@visx/demo-tooltip",
+  "description": "Standalone visx tooltip demo.",
+  "main": "src/index.tsx",
+  "private": true,
+  "dependencies": {
+    "@babel/runtime": "^7.8.4",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@visx/responsive": "latest",
+    "@visx/tooltip": "latest",
+    "@visx/Group": "latest",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-scripts-ts": "3.1.0",
+    "typescript": "^3"
+  },
+  "keywords": ["visualization", "d3", "react", "visx"]
+}
